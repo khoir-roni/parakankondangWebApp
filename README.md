@@ -1,6 +1,6 @@
 # parakan_web_app
 
-- [web demo](https://khoir-roni.github.io/parakankondangWebApp/web/index.html)
+- [web demo](https://khoir-roni.github.io/parakankondangWebApp/demo/index.html)
 A new Flutter project.
 
 ## Getting Started
